@@ -5,8 +5,8 @@ body {
 
 }
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #58181f; /*Rouge bordeaux foncé */
+    color: #000000;
     padding: 1rem;
 }
 nav a {
